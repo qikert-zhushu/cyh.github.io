@@ -25,7 +25,7 @@ I completed my undergraduate degree at the School of Computer Science and Engine
 
 # 📝 Publications 
 
-- <span class="pub-badge" style="display: inline-block; margin-right: .5em; padding: .15em .5em; border-radius: .2rem; color: #fff; background-color: #00369f; font-size: .75em; font-weight: 600; line-height: 1.4; vertical-align: .05em; white-space: nowrap;">TGRS 2026</span> Wenbin Wang, <strong style="color: #00369f;">Yiheng Chen</strong>, Hang Sun, Dong Ren, and Yansheng Li. Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation. IEEE TGRS, 2026. (Accepted).
+- <span class="pub-badge" style="display: inline-block; margin-right: .5em; padding: .15em .5em; border-radius: .2rem; color: #fff; background-color: #00369f; font-size: .75em; font-weight: 600; line-height: 1.4; vertical-align: .05em; white-space: nowrap;">TGRS 2026</span> Wenbin Wang, <strong style="color: #00369f;">Yiheng Chen</strong>, Hang Sun, Dong Ren, and Yansheng Li. [Spatially Anisotropic Reasoning Network for Remote Sensing Scene Graph Generation](https://ieeexplore.ieee.org/abstract/document/11677219). IEEE TGRS, Art. no. 4416521, 2026.
 
 # 🎖 Honors and Awards
 
